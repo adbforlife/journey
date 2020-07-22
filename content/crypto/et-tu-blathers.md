@@ -1,7 +1,7 @@
 ---
 title: "Crypto | Et Tu Blathers | UIUCTF 2020"
 date: 2020-07-21T22:31:04-04:00
-draft: true
+draft: false
 ---
 
 This is my first ctf writeup. How *exciting*! This problem is a warmup crypto question on Vigenere cipher.
