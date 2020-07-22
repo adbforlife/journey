@@ -1,0 +1,18 @@
+theme = "hyde"
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "ADB"
+
+[Menus]
+  main = [
+      {Name = "Github", URL = "https://github.com/adbforlife/"},
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/albert-gao/"}
+  ]
+
+[params]
+  description = "I heard blogs are cool, so here we are."
+  themeColor = "theme-base-08"
+  layoutReverse = true
+
+
+
