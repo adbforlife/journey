@@ -16,4 +16,3 @@ You may find a wordlist of commonly used words helpful for this challenge
 To clarify The first line is Ciphertext, the other lines are not.
 
 ## Solution
-
