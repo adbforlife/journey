@@ -3,7 +3,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "ADB"
 
-[Menus]
+[Menus] 
   main = [
       {Name = "Github", URL = "https://github.com/adbforlife/"},
       {Name = "LinkedIn", URL = "https://www.linkedin.com/in/albert-gao/"}
