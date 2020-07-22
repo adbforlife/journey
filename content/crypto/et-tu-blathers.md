@@ -1,6 +1,7 @@
 ---
-title: "Et Tu Blathers"
-date: 2020-07-21T22:31:04-04:00
+title: Et Tu Blathers
+date: 2020-07-22T02:31:04+00:00
 draft: true
----
 
+---
+This is some text
