@@ -32,4 +32,9 @@
   {{ end -}}
 
   {{ partial "hook_head_end.html" . }}
+
+  <!-- Katex -->
+  {{ if .Params.katex}}
+  {{ partial "katex.html" .}}
+  {{ end}}
 </head>
