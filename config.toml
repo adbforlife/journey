@@ -2,6 +2,7 @@ theme = "hyde"
 baseURL = "/"
 languageCode = "en-us"
 title = "ADB"
+googleAnalytics = "UA-105059629-4"
 
 [Menus] 
   main = [
